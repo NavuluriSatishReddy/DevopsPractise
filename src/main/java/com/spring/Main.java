@@ -55,6 +55,9 @@ public class Main {
                     System.out.println("Invalid Choice Please Provide The Valid Option between 1 to 6 ");
                     break;
             }
+
+            int i=10;
+            System.out.println(i);
         }
     }
 }
